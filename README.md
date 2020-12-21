@@ -10,4 +10,4 @@ Name | Description | Source
 
 ## 1. Deep Learning
 
-[AComprehensive Guide to 21 Popular Deep Learning Interview Question and Answers](https://www.analyticsvidhya.com/blog/2020/04/comprehensive-popular-deep-learning-interview-questions-answers/?utm_source=linkedin&utm_medium=AVlinkhigh-performance-blogblogs441830.375)
+[A Comprehensive Guide to 21 Popular Deep Learning Interview Question and Answers](https://www.analyticsvidhya.com/blog/2020/04/comprehensive-popular-deep-learning-interview-questions-answers/?utm_source=linkedin&utm_medium=AVlinkhigh-performance-blogblogs441830.375)
