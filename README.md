@@ -11,3 +11,9 @@ Name | Description | Source
 ## 1. Deep Learning
 
 [A Comprehensive Guide to 21 Popular Deep Learning Interview Question and Answers](https://www.analyticsvidhya.com/blog/2020/04/comprehensive-popular-deep-learning-interview-questions-answers/?utm_source=linkedin&utm_medium=AVlinkhigh-performance-blogblogs441830.375)
+
+
+
+##Master the basics of Conda environments in Python
+
+https://www.youtube.com/watch?v=1VVCd0eSkYc
