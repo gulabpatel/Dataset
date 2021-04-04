@@ -14,6 +14,6 @@ Name | Description | Source
 
 
 
-##Master the basics of Conda environments in Python
+## Master the basics of Conda environments in Python
 
 https://www.youtube.com/watch?v=1VVCd0eSkYc
