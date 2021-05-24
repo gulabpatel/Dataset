@@ -1,0 +1,11 @@
+id,bin_1,bin_2,nom_0,ord_2
+0,F,N,Red,Hot
+1,F,Y,Blue,Warm
+2,F,N,Blue,Cold
+3,F,N,Green,Warm
+4,T,N,Red,Cold
+5,T,N,Green,Hot
+6,F,N,Red,Cold
+7,T,N,Red,Cold
+8,F,N,Blue,Warm
+9,F,Y,Red,Hot
