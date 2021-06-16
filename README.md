@@ -6,6 +6,10 @@ Name | Description | Source
 [dhfr](https://github.com/dataprofessor/data/blob/master/dhfr.csv) | 325 molecules (rows) with biological activity against the DHFR enzyme (an anti-marial drug target). The dataset consists of 228 input variables (molecular descriptors describing the physicochemical properties of the molecule) and 1 output variable (the biological activity as being either *active* or *inactive*). | [2](https://www.rdocumentation.org/packages/caret/versions/6.0-84/topics/dhfr)
 [heart-disease-cleveland](https://github.com/dataprofessor/data/blob/master/heart-disease-cleveland.csv) | 303 patients (rows) who have been diagnosed as having (diagnosis score of 1, 2, 3, or 4) or not having (diagnosis score of 0) heart disease. The dataset consists of 13 input variables (the health parameters) and 1 output variable (diagnosis). | [3](https://archive.ics.uci.edu/ml/datasets/Heart+Disease) 
 
+# Readme file creation
+https://readme.so/editor
+https://www.youtube.com/watch?v=4ATucrptdYA
+
 # Interview Preparation
 
 ## 1. Deep Learning
